@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "declaration": true,
+    "module": "CommonJS"
+    // "strictPropertyInitialization": true,
+    // "strictNullChecks": true,
+    // "noUncheckedIndexedAccess": true
+    // "suppressExcessPropertyErrors": true
+    // "strictNullChecks": true,
+    // "noImplicitReturns": true
+  }
+}
